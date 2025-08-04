@@ -2,7 +2,7 @@ local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV9
 
 local URL = Games[game.PlaceId]
 
-loadstring(game:HttpGet("https://pastebin.com/raw/GpaQ4jHx"))()
+loadstring(game:HttpGet("https://pastefy.app/JClAQIgD/raw"))()
 
 if URL then
   loadstring(game:HttpGet(URL))()
